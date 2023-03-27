@@ -6,3 +6,4 @@ An introductory collaborative Python project!
 ## Contributors
 
 - pumken
+- Evan
